@@ -1,4 +1,4 @@
-# CMGT SHOWCASE PWA
+# CMGT SHOWCASE PWA - not finished yet -
 
 > Showcase portfolios for cmgt PWA built with Vue.js and Ionic 4 using the @ionic/vue package and the @vue/pwa plugin
 
